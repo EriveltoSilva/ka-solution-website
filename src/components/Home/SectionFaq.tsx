@@ -41,7 +41,7 @@ export function SectionFAQ() {
   };
 
   return (
-    <section className="bg-gray-50 py-12">
+    <section id="faq" className="bg-gray-50 py-12">
       <div className="max-w-6xl mx-auto flex flex-col lg:flex-row gap-8 items-center">
         {/* Left side */}
         <div className="lg:w-1/2 text-center lg:text-left">

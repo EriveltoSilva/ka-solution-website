@@ -25,11 +25,11 @@ const submenu = [
   //   label: "Blog",
   // },
   {
-    path: "/faq",
+    path: "#faq",
     label: "FAQ",
   },
   {
-    path: "/contactos",
+    path: "#contactos",
     label: "Contactos",
   },
 ];
