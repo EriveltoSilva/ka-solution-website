@@ -1,5 +1,6 @@
 import { Banner } from "@/components/Home/Banner";
 import { SectionAboutUs } from "@/components/Home/SectionAboutUs";
+import { SectionFAQ } from "@/components/Home/SectionFaq";
 import { SectionIndicators } from "@/components/Home/SectionIndicators";
 import { SectionOurService } from "@/components/Home/SectionOurService";
 import SectionPartners from "@/components/Home/SectionPartners";
@@ -14,6 +15,7 @@ export default function Home() {
       <SectionOurService />
       <SectionWhyOurProducts />
       <SectionPartners />
+      <SectionFAQ />
     </>
   );
 }

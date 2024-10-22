@@ -68,7 +68,8 @@ export const Navbar = () => {
         </ul>
 
         {/* Botão GET IN TOUCH */}
-        <button className="hidden md:block bg-yellow-400 text-black px-4 py-2 rounded-md">GET IN TOUCH</button>
+        {/* <button className="hidden md:block bg-yellow-400 text-black px-4 py-2 rounded-md">GET IN TOUCH</button> */}
+        <div></div>
 
         {/* Overlay escuro para mobile */}
         {isOpen && (
