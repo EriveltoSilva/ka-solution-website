@@ -14,7 +14,7 @@ export const SectionAboutUs = () => {
         <h3 className="text-xl lg:text-3xl font-thin text-black mb-6">Soluções Tecnologicas para o agro-negocio</h3>
 
         <Link
-          href={"/company"}
+          href={"#"}
           className="border-2 border-yellow-400 text-black px-6 py-3 rounded-md hover:bg-yellow-500 hover:text-white transition-colors duration-300"
         >
           Ler mais...
