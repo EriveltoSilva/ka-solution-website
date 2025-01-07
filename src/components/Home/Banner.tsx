@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { Navbar } from "../Navbar";
 
 export const Banner = () => {
@@ -18,9 +17,9 @@ export const Banner = () => {
         <p className="text-white text-base lg:text-lg mt-4 px-4">
           Impulsionando a Sustentabilidade para um Futuro Agrícola Inteligente.
         </p>
-        <Link href="/contacts" className="mt-8 px-6 py-3 bg-yellow-400 text-black rounded-lg">
+        {/* <Link href="/contacts" className="mt-8 px-6 py-3 bg-yellow-400 text-black rounded-lg">
           Entrar em Contacto
-        </Link>
+        </Link> */}
       </div>
     </div>
   );

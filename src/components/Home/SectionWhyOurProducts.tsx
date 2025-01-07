@@ -73,7 +73,7 @@ export const SectionWhyOurProducts = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-8">
           <h2 className="text-2xl lg:text-4xl text-center text-gray-800 font-bold">
-            Porquê <span className="text-yellow-400">Nós?</span>
+            Porquê <span className="text-yellow-700">Nós?</span>
           </h2>
           <div className="w-16 h-1 bg-yellow-600 mx-auto mt-2"></div>
         </div>

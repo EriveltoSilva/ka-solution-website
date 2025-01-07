@@ -26,7 +26,7 @@ export const Footer: React.FC = () => {
       </div>
 
       <div className="space-y-3">
-        <div className="hidden lg:block text-3xl md:text-xl lg:text-3xl lg:text-start text-center font-bold text-yellow-400">
+        <div className="hidden lg:block text-3xl md:text-xl lg:text-3xl lg:text-start text-center font-bold text-yellow-700">
           K.A Solutions
         </div>
         <p> &copy; {new Date().getFullYear()} Todos os direitos reservados!</p>

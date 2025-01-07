@@ -10,9 +10,9 @@ export const SectionOurService = () => {
         <div className="text-center mb-8">
           <h2 className="text-2xl lg:text-4xl text-center text-gray-800 font-bold">
             {" "}
-            Nossos <span className="text-yellow-400">Serviços</span>
+            Nossos <span className="text-yellow-700">Serviços</span>
           </h2>
-          <div className="w-16 h-1 bg-yellow-600 mx-auto mt-2"></div>
+          <div className="w-16 h-1 bg-yellow-400 mx-auto mt-2"></div>
         </div>
 
         <h1 className="text-lg md:text-xl font-bold text-gray-500 mt-2">Dimensionamento, Instalação, Manutenção</h1>
@@ -33,7 +33,7 @@ export const SectionOurService = () => {
           </Link>
           <div className="p-6 flex justify-between items-center">
             <h3 className="text-lg md:text-xl font-semibold text-gray-800 hover:text-gray-600">
-              <Link href={"#"}>Energia Solar Verde</Link>
+              <p>Energia Solar Verde</p>
             </h3>
             <PiSolarRoofLight className="text-yellow-700 size-14" />
           </div>
@@ -59,7 +59,7 @@ export const SectionOurService = () => {
           </Link>
           <div className="p-6 flex justify-between items-center">
             <h3 className="text-lg md:text-xl font-semibold text-gray-800 hover:text-gray-600">
-              <Link href={"#"}>Sistema de Irrigação Automatizado</Link>
+              <p>Sistema de Irrigação Automatizado</p>
             </h3>
             <GiPlantWatering className="text-blue-500 size-14" />
           </div>
