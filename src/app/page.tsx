@@ -1,3 +1,4 @@
+import { Footer } from "@/components/Footer";
 import { Banner } from "@/components/Home/Banner";
 import { SectionAboutUs } from "@/components/Home/SectionAboutUs";
 import { SectionFAQ } from "@/components/Home/SectionFaq";
@@ -16,6 +17,7 @@ export default function Home() {
       <SectionWhyOurProducts />
       <SectionPartners />
       <SectionFAQ />
+      <Footer />
     </>
   );
 }

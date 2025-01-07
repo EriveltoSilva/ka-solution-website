@@ -14,7 +14,7 @@ const submenu = [
   },
   {
     path: "#productos",
-    label: "Productos",
+    label: "Serviços",
   },
   // {
   //   path: "/empresa",
